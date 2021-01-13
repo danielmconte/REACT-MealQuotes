@@ -1,3 +1,12 @@
+# REACT-MealQuotes
+## A simple React app that gives a famous quote* for each meal of the day
+* Functional components
+* React Router
+
+*Quotes may never have been stated by attributed famous person. Or maybe they were. BELIEVE!  
+
+# Below in standard React Readme
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
